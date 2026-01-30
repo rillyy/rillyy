@@ -1,6 +1,12 @@
 ## this is meprofiley! 
 # Informatics Student with Interests in Data, Systems n Growin' Ups 👋
 
+**Focus / Interests**
+- Data analysis & data-driven systems
+- Web development
+- Databases & information systems
+- Learning through real projects
+
 <!--
 **rillyy/rillyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
