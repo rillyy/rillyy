@@ -79,57 +79,6 @@ const rilly = {
 
 ---
 
-## 📌 Highlight Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI-FilterImageProject
-> Intelligent image filtering system using AI
-- Image processing algorithms
-- User-friendly interface
-- Real-time filtering
-
-</td>
-<td width="50%">
-
-### 🖼️ imagefiltering
-> Advanced image manipulation tools
-- Multiple filter options
-- Optimized performance
-- Modern web technologies
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏠 personalHomepage
-> Custom personal website
-- Responsive design
-- Clean UI/UX
-- Portfolio showcase
-
-</td>
-<td width="50%">
-
-### 📚 More Projects
-> Check out my repositories for more!
-- Various learning projects
-- Experimental code
-- Collaborative works
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
