@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Rilly! Welcome to My Profile ✨
+# 👋 Hi, It's Rillyy. This is MeProfiley! ✨
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=440&lines=Informatics+Student+%F0%9F%8E%93;Data-minded%F0%9F%93%8A;Logic%F0%9F%A7%A0;Growin' Up%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=440&lines=Data-minded+%F0%9F%93%8A;Logic+%F0%9F%A7%A0;Growin'+up+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -125,15 +125,15 @@ const rilly = {
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrllyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rillyy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=FF6EC7&text_color=FFFFFF"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrllyy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rillyy&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF"/>
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rrllyy&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rillyy&theme=radical&hide_border=true&background=0D1117&ring=FF6EC7&fire=FF6EC7&currStreakLabel=FF6EC7)
 
 </div>
 
@@ -143,7 +143,7 @@ const rilly = {
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rrllyy&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=rillyy&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
@@ -153,7 +153,7 @@ const rilly = {
 
 <div align="center">
 
-[![Rilly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rrllyy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6EC7&line=FF6EC7&point=FFFFFF)](https://github.com/rrllyy)
+[![Rilly's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rillyy&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=FF6EC7&line=FF6EC7&point=FFFFFF)](https://github.com/rillyy)
 
 </div>
 
@@ -173,7 +173,7 @@ const rilly = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-rrllyy-181717?style=for-the-badge&logo=github)](https://github.com/rrllyy)
+[![GitHub](https://img.shields.io/badge/GitHub-rillyy-181717?style=for-the-badge&logo=github)](https://github.com/rillyy)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
@@ -185,8 +185,8 @@ const rilly = {
 
 ### 💡 "Data-minded. Logic. Growth."
 
-![Profile Views](https://komarev.com/ghpvc/?username=rrllyy&color=FF6EC7&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=rillyy&color=FF6EC7&style=for-the-badge)
 
-⭐️ From [rrllyy](https://github.com/rrllyy) with 💖
+⭐️ From [rillyy](https://github.com/rillyy) with 💖
 
 </div>
