@@ -128,34 +128,6 @@ const rilly = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rillyy&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4CAF50&icon_color=66BB6A&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rillyy&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=4CAF50&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rillyy&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=4CAF50&fire=66BB6A&currStreakLabel=4CAF50)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=rillyy&theme=algolia&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
 ## 📈 Activity Graph
 
 <div align="center">
@@ -170,16 +142,7 @@ const rilly = {
 
 <div align="center">
 
-```
-╭─────────────────────────────────────────────────╮
-│                                                 │
-│  "First, solve the problem.                    │
-│   Then, write the code."                       │
-│                                                 │
-│                        — John Johnson          │
-│                                                 │
-╰─────────────────────────────────────────────────╯
-```
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 </div>
 
