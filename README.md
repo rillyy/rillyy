@@ -1,46 +1,31 @@
-## Hi, It's Rilly. This is MeProfiley! 👋  
-_Informatics Student · Data-minded · Logic-driven_
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Rilly&fontSize=40&animation=fadeIn" />
 
-I’m an informatics student who enjoys working with *data and systems*.  
-believe growth comes from consistent learning and clear logic.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Informatics+Student;Data-Minded+%7C+Logic-Driven+%7C+Growth" />
+</p>
 
+---
 
 ### 🧠 Focus & Interests
 - Data analysis & data-driven systems  
-- Web development (front-end fundamentals)  
+- Web development fundamentals  
 - Databases & information systems  
 - Learning through real-world projects  
 
 ---
 
 ### 🛠 Tech Stack
-**Languages**  
-HTML · CSS · JavaScript  
-
-**Database**  
-MySQL  
-
-**Tools**  
-Git · GitHub · VS Code  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
 ### 📌 Highlight Projects
 🔹 **AI-FilterImageProject**  
-Simple image filtering project built with HTML and basic processing logic.
-
 🔹 **imagefiltering**  
-JavaScript-based image manipulation experiments exploring visual effects.
-
-🔹 **personalHomepage**  
-My first personal website and portfolio to document learning progress.
-
----
-
-### 🌱 Currently Growing In
-- Writing cleaner and more readable JavaScript  
-- Understanding system logic & data flow  
-- Building projects with purpose, not just output  
+🔹 **personalHomepage**
 
 ---
 
