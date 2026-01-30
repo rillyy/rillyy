@@ -12,7 +12,9 @@
 
 ---
 
-## 🥑 About Me
+## 🌸 About Me
+
+<img align="right" alt="Avocado Coding" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 
 ```javascript
 const rilly = {
@@ -29,6 +31,10 @@ const rilly = {
 };
 ```
 
+<br clear="both"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ---
 
 ## 🎯 Focus & Interests
@@ -41,7 +47,7 @@ const rilly = {
 - 📊 Data analysis & data-driven systems
 - 🌐 Web development fundamentals
 - 🗄️ Databases & information systems
-- 🔬 Learning through projects
+- 🔬 Learning through real-world projects
 
 </td>
 <td width="50%">
@@ -148,6 +154,18 @@ const rilly = {
 
 ---
 
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-rillyy-2E7D32?style=for-the-badge&logo=github)](https://github.com/rillyy)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-4CAF50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-66BB6A?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🥑 "Data-minded. Logic. Growin' up."
@@ -157,3 +175,5 @@ const rilly = {
 ⭐️ From [rillyy](https://github.com/rillyy) with 💚
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,50:4CAF50,100:83D475&height=120&section=footer" width="100%"/>
