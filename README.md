@@ -1,5 +1,5 @@
-## this is me.profiley!
-## Informatics Student with Interests in Data, Systems n Growin' Ups 👋
+## this is meprofiley! 
+Informatics Student with Interests in Data, Systems n Growin' Ups 👋
 
 <!--
 **rillyy/rillyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
