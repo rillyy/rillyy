@@ -1,23 +1,47 @@
-## this is meprofiley! 
-# Informatics Student with Interests in Data, Systems n Growin' Ups 👋
+## Hi, It's Rilly. This is MeProfiley! 👋  
+_Informatics Student · Data-minded · Logic-driven_
 
-**Focus / Interests**
-- Data analysis & data-driven systems
-- Web development
-- Databases & information systems
-- Learning through real projects
+I’m an informatics student who enjoys working with *data and systems*.  
+believe growth comes from consistent learning and clear logic.
 
-<!--
-**rillyy/rillyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 🧠 Focus & Interests
+- Data analysis & data-driven systems  
+- Web development (front-end fundamentals)  
+- Databases & information systems  
+- Learning through real-world projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+**Languages**  
+HTML · CSS · JavaScript  
+
+**Database**  
+MySQL  
+
+**Tools**  
+Git · GitHub · VS Code  
+
+---
+
+### 📌 Highlight Projects
+🔹 **AI-FilterImageProject**  
+Simple image filtering project built with HTML and basic processing logic.
+
+🔹 **imagefiltering**  
+JavaScript-based image manipulation experiments exploring visual effects.
+
+🔹 **personalHomepage**  
+My first personal website and portfolio to document learning progress.
+
+---
+
+### 🌱 Currently Growing In
+- Writing cleaner and more readable JavaScript  
+- Understanding system logic & data flow  
+- Building projects with purpose, not just output  
+
+---
+
+> *data-minded. logic. growth.*
