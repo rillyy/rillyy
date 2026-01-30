@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Rilly&fontSize=40&animation=fadeIn" />
+## Hi, It's Rilly. This is MeProfiley! 👋  
+_Informatics Student · Data-minded · Logic-driven_
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Informatics+Student;Data-Minded+%7C+Logic-Driven+%7C+Growth" />
-</p>
+I’m an informatics student who enjoys working with *data and systems*.  
+believe growth comes from consistent learning and clear logic.
 
 ---
 
