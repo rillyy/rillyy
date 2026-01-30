@@ -41,7 +41,7 @@ const rilly = {
 - 📊 Data analysis & data-driven systems
 - 🌐 Web development fundamentals
 - 🗄️ Databases & information systems
-- 🔬 Learning through real-world projects
+- 🔬 Learning through projects
 
 </td>
 <td width="50%">
@@ -171,18 +171,6 @@ const rilly = {
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)
-
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-rillyy-2E7D32?style=for-the-badge&logo=github)](https://github.com/rillyy)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-4CAF50?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-66BB6A?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 
 </div>
 
