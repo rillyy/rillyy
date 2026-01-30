@@ -14,8 +14,6 @@
 
 ## 🌸 About Me
 
-<img align="right" alt="Avocado Coding" width="400" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
-
 ```javascript
 const rilly = {
     codename: "The Coding Avocado 🥑",
@@ -30,8 +28,6 @@ const rilly = {
     favoriteStack: ["HTML", "CSS", "JavaScript", "MySQL"]
 };
 ```
-
-<br clear="both"/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -148,7 +144,7 @@ const rilly = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+### _"Growing one commit at a time."_ 🌱
 
 </div>
 
