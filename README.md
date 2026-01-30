@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:83D475,50:4CAF50,100:2E7D32&height=250&section=header&text=🥑%20Hi,%20I'm%20Rilly!%20🥑&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20Coding%20Avocado%20•%20Fresh%20Ideas%20•%20Organic%20Code&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:83D475,50:4CAF50,100:2E7D32&height=250&section=header&text=🥑%20Hi,%20It's%20Rilly.%20This%20is%20MeProfiley!%20🥑&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=The%20Coding%20Avocado%20•%20Fresh%20Ideas%20•%20Organic%20Code&descAlignY=55&descSize=18)
 
 <br/>
 
