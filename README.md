@@ -20,7 +20,7 @@ const rilly = {
     pronouns: "she/her",
     location: "Indonesia 🇮🇩",
     role: "Informatics Student",
-    vibe: ["Fresh", "Organic", "Wholesome"],
+    vibe: ["Sugar", "Organic", "Wholesome"],
     passions: ["Data Analysis", "Web Development", "Problem Solving"],
     currentFocus: "Building real-world projects & mastering data systems",
     motto: "Growth comes from consistent learning and clear logic 💡",
